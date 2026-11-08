@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Taguig_point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "BGC Bus", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.055363546187309, 14.54731065 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Transport Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.056931128999793, 14.551381346379799 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Comembo-Pembo Tricycle Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.064418898505124, 14.546276546759099 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal (Palengke)", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.049492775728723, 14.5013670583341 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.051165136530102, 14.484274065260049 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.057895078368915, 14.493579316536799 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.056505595576738, 14.492836976224499 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.056497661301222, 14.492904592271099 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "McKinley Hill Transport Hub", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.050365876276715, 14.53338732083775 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal (PAE)", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.047068346118863, 14.48941272960395 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.05531711941299, 14.489027613727099 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Uptown Bonifacio Transport Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.055333095304761, 14.561077231861951 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Pasig Ferry Guadalupe Station", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.047890507230846, 14.568013649753901 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Guadalupe", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.047865752920757, 14.568089568517699 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.057088374336018, 14.492234913258301 ] } },
+{ "type": "Feature", "properties": { "amenity": "transportation", "name": "Tricycle Terminal", "addr_city": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.06036565711274, 14.4883138796372 ] } }
+]
+}
